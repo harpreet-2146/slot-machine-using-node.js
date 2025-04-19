@@ -118,8 +118,11 @@ Purpose:
 Formats and prints each row nicely like:
 
 A | C | A
+
 B | D | A
+
 C | A | B
+
 const getWinnings(rows, bet, lines) => { ... }
 Logic:
 
